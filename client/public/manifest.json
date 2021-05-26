@@ -1,0 +1,10 @@
+{
+  "short_name": "nny",
+  "name": "no-name-yet",
+  "icons": [],
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

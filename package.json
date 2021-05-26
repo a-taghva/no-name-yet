@@ -1,0 +1,25 @@
+{
+  "name": "no-name-yet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-taghva/no-name-yet.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a-taghva/no-name-yet/issues"
+  },
+  "homepage": "https://github.com/a-taghva/no-name-yet#readme",
+  "dependencies": {
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^6.2.0"
+  }
+}
